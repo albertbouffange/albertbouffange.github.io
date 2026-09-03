@@ -25,10 +25,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in political and ecological economics based in Grenoble, France. I investigate the institutions enabling sustainability in the form of degrowth, the properties of degrowth regimes, and how this can inform strategies for deep economic change. I use Regulation Theory and socioeconomic metabolism analysis. 
+I am a PhD student in political and ecological economics based in Grenoble, France. I investigate post-growth political economy : the institutions linked to smaller social metabolisms and absolute sustainability, the properties and nature of degrowth regimes, and how this can inform strategies for deep economic change. I use Regulation Theory and socioeconomic metabolism analysis. 
 
 I work under the supervision of Agnès Labrousse and Pierre-Yves Longaretti. 
 I graduated in social sciences and economics at the ENS Paris-Saclay. 
 
-I am part of the current coordination group of the [Postgrowth Economics Network](https://www.postgrowtheconomics.org/). 
-I also co-organize an ecological economics seminar in Grenoble, the [ReGEE](https://rencontres-ecol-econ.github.io/). 
+I co-organize an ecological economics seminar in Grenoble, the [ReGEE](https://rencontres-ecol-econ.github.io/). 
+I was also part of the previous coordination group of the [Postgrowth Economics Network](https://www.postgrowtheconomics.org/). 
